@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2378498-10c4-4f06-9e08-e5cbf1d490a5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_0_0_beta1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="a2378498-10c4-4f06-9e08-e5cbf1d490a5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/test1/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -106,24 +99,6 @@
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="test1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -137,7 +112,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -154,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/thread.xml">
+  <component name="RunManager" selected="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/suite.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -261,11 +236,11 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="/Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/param.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/suite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/test1/src/main/resources/param.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test1/src/main/resources/suite.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -330,19 +305,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/param.xml" />
       <item itemvalue="TestNG.TestDataProvider.testDataProvider" />
       <item itemvalue="TestNG.TestDataProvider" />
       <item itemvalue="TestNG.TestMutiThreads" />
       <item itemvalue="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/thread.xml" />
+      <item itemvalue="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/suite.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/suite.xml" />
         <item itemvalue="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/thread.xml" />
         <item itemvalue="TestNG.TestMutiThreads" />
         <item itemvalue="TestNG.TestDataProvider" />
         <item itemvalue="TestNG.TestDataProvider.testDataProvider" />
-        <item itemvalue="TestNG./Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/param.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -356,14 +331,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543817554369</updated>
-      <workItem from="1543817555838" duration="7026000" />
+      <workItem from="1543817555838" duration="7341000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ExpectedException_expectedException - 2018.12.03 at 15h 45m 51s.xml">
-      <configuration name="ExpectedException.expectedException" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Dependency_test2 - 2018.12.03 at 15h 53m 05s.xml">
       <configuration name="Dependency.test2" configurationId="TestNG" />
     </history-entry>
@@ -391,13 +363,15 @@
     <history-entry file="_Users_guojiasmac_test_workspace_muke_AutoTest_test1_src_main_resources_thread_xml - 2018.12.03 at 17h 08m 04s.xml">
       <configuration name="/Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/thread.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_guojiasmac_test_workspace_muke_AutoTest_test1_src_main_resources_suite_xml - 2018.12.03 at 19h 21m 12s.xml">
+      <configuration name="/Users/guojiasmac/test_workspace/muke/AutoTest/test1/src/main/resources/suite.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7026000" />
+    <option name="totallyTimeSpent" value="7341000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -408,9 +382,9 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32917705" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917705" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32917705" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24248926" />
@@ -670,6 +644,30 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -693,6 +691,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -707,6 +718,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
