@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="testng">
+    <test name="testng">
+        <classes>
+            <class name="com.sxt.test.ExtentsDemo">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                    <include name="test3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.sxt.test.ExtentTestNGIReporterListener"/>
+    </listeners>
+</suite>
